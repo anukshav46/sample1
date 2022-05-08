@@ -1,0 +1,19 @@
+hbody{
+    margin: 0;
+    padding: 0;
+    overflow-x:clip;
+    }
+    #mentors{
+    margin-top: 50px; background-color: #EAF3F8;
+    }
+    .card{
+    margin-top: 70px;
+    border: none;
+    
+    }
+    .card-body{
+    background-color: #EAF3F8;
+    border: none;
+    }
+    .bg-alice-blue{ background-color: #DEF3FD;
+    }
